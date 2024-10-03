@@ -1,1 +1,1 @@
-![6cod's GitHub stats](https://github-readme-stats.vercel.app/api?username=6cod&show_icons=true&hide_border=true&count_private=true&theme=codeSTACKr&hide_title=true&include_all_commits=true&line_height=24&card_width=400&bg_color=ffffff&title_color=333333&icon_color=0077cc&text_color=444444&custom_title=My%20GitHub%20Stats&layout=compact)
+![6cod's GitHub stats](https://github-readme-stats.vercel.app/api?username=6cod&show_icons=true&hide_border=true&count_private=true&theme=codeSTACKr&hide_title=true&include_all_commits=true&line_height=24)
