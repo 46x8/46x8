@@ -2,7 +2,7 @@
 
 # Welcome to 6cod's Profile! 👋
 
-![Discord Status](https://lanyard-profile-readme.vercel.app/api/1290478829168623616)
+![Discord Status](https://discord-readme-badge.vercel.app/api/id/1290478829168623616)
 
 ---
 
