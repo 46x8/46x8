@@ -2,8 +2,6 @@
 
 # Welcome to 6cod's Profile! 👋
 
----
-
 ### Languages & Tools
 
 <p>
@@ -15,7 +13,5 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&logoWidth=20" />
 </p>
-
----
 
 </div>
