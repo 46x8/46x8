@@ -1,1 +1,8 @@
+![C Sharp](https://img.shields.io/badge/c%20sharp-%235C5C5C.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![JSON](https://img.shields.io/badge/json-%232C2D72.svg?style=for-the-badge&logo=json&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233B77B9.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1290478829168623616?theme=dark&bg=111110&hideDiscrim=true&borderRadius=30px&idleMessage=Coding%20CSharp%20or%20Python...)](https://discord.com/users/1290478829168623616)
