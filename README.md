@@ -1,4 +1,4 @@
-[![Languages](https://img.shields.io/badge/Languages-C%2FC%2B%2B-00599C?logo=c&logoColor=white)]()
+[![0](https://img.shields.io/badge/Languages-C%2FC%2B%2B-00599C?logo=c&logoColor=white)]()
 [![Languages](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()
 [![Languages](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)]()
 [![Languages](https://img.shields.io/badge/JavaScript%2FNode-339933?logo=javascript&logoColor=white)]()
