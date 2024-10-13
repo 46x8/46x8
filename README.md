@@ -1,4 +1,4 @@
-![C Sharp](https://img.shields.io/badge/c%20sharp-%235C5C5C.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%20sharp-%235C5C5C.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-%232C2D72.svg?style=for-the-badge&logo=json&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233B77B9.svg?style=for-the-badge&logo=python&logoColor=white)
