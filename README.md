@@ -4,5 +4,3 @@
 [![Js/Node](https://img.shields.io/badge/_Js%2FNode_-339933?logo=javascript&logoColor=white)]()
 [![Lua](https://img.shields.io/badge/_Lua_-2C2D72?logo=lua&logoColor=white)]()
 [![Bash](https://img.shields.io/badge/_Bash_-4EAA25?logo=gnubash&logoColor=white)]()
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1290478829168623616?theme=dark&bg=111110&hideDiscrim=true&borderRadius=30px&idleMessage=Coding%20CSharp%20or%20Python...)](https://discord.com/users/1290478829168623616)
